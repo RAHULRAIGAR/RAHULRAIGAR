@@ -1,4 +1,6 @@
-![logo](https://github.com/RAHULRAIGAR/RAHULRAIGAR/blob/main/Rahul54321.jpg)
+<p align="center">
+  <img src="rahul54321.jpg" width="400" alt="Rahul Raigar">
+</p>
 <h1 align="center">Hi 👋, I'm Rahul Raigar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 <img align="right" ali="codingwidth="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffront-end-developer&psig=AOvVaw2ATnDtnNsUaXGZ31YUOoEt&ust=1729842111626000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIifkKfCpokDFQAAAAAdAAAAABAK">
