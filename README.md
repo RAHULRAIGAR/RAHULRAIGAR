@@ -7,11 +7,12 @@
 <img align="right" ali="codingwidth="400" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Ficonscout.com%2Flottie-animations%2Ffront-end-developer&psig=AOvVaw2ATnDtnNsUaXGZ31YUOoEt&ust=1729842111626000&source=images&cd=vfe&opi=89978449&ved=0CBMQjRxqFwoTCIifkKfCpokDFQAAAAAdAAAAABAK">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=rahulraigar&label=Profile%20views&color=0e75b6&style=flat" alt="rahulraigar" /> </p>
 
-- 🌱 I’m currently learning **B.Tech(Computer Science)**
+- 🌱 I’m currently pursuing **B.Tech(Computer Science)**
 
 - 👨‍💻 All of my projects are available at [https://www.linkedin.com/in/rahul-raigar-560873293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app](https://www.linkedin.com/in/rahul-raigar-560873293?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 - 📫 How to reach me **rahulraiger13@gmail.com**
+- 
 
 - ⚡ Fun fact **I am funny**
 
@@ -51,4 +52,16 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 🌐 Connect with me:
 [![LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULRAIGAR&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+</p>
 
