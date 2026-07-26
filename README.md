@@ -41,4 +41,4 @@ You can click the Preview link to take a look at your changes.
 --->
 ### 🌐 Connect with me:
 [![LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
-[![Resume](https://drive.google.com/file/d/1derMnYrgSHKeRQ6bW-gCxs_F3NBo4Lgv/view?usp=drivesdk)
+
