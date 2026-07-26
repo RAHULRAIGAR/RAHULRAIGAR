@@ -1,7 +1,5 @@
 <p align="center">
-  <img <p align="center">
   <img src="https://raw.githubusercontent.com/RAHULRAIGAR/RAHULRAIGAR/main/rahul54321.jpg" width="400" alt="Rahul Raigar">
-</p> width="400" alt="Rahul Raigar">
 </p>
 <h1 align="center">Hi 👋, I'm Rahul Raigar</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
