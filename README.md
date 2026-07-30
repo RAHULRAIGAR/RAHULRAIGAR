@@ -40,8 +40,6 @@
   <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
 </div>
 
-<br>
-
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
