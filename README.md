@@ -50,15 +50,5 @@ You can click the Preview link to take a look at your changes.
 ### 🌐 Connect with me:
 [![LinkedIn](https://www.linkedin.com/in/rahul-raigar-data3293/)
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
-</p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=RAHULRAIGAR&theme=radical&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
-</p>
 
