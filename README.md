@@ -94,11 +94,13 @@ Turning raw data into meaningful insights through analytics and visualization.
 </p>
 
 ---
-## 📊 GitHub Stats
+
+
+## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=tokyonight" height="180"/>
 </p>
 ## 🔥 GitHub Streak
 
@@ -171,7 +173,7 @@ Turning raw data into meaningful insights through analytics and visualization.
 
 ---
 
-# 📈 GitHub Statistics
+
 
 <!-- Uncomment when github-readme-stats is working again
 
