@@ -198,7 +198,15 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&
 - 🗄️C-DAC Cyber Security Certificate - [View Certificate](https://drive.google.com/file/d/1NmFFgra8fiXBJazbejcIvyZYM7klD7m2/view?usp=drivesdk)
 - 📈Data Analytics Essentials Certificate- [View Certificate](https://drive.google.com/file/d/1Bc0B91kdOr9C_d-q4Huc80fPWZebq0J0/view?usp=drivesdk)
 
+## 📩 Open To Opportunities
 
+I am looking for entry-level opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to data-driven projects.
+
+- Data Analyst Internships
+- Junior Data Analyst Roles
+- Business Intelligence Internships
+- Python / SQL Developer Opportunities
+  
 # 🌐 Connect with Me
 
 # 📬 Connect with Me
