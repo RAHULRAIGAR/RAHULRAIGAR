@@ -45,7 +45,7 @@ Turning raw data into meaningful insights through analytics and visualization.
 - 📊 Aspiring Data Analyst passionate about solving real-world problems with data.
 - 🌱 Currently learning **Advanced SQL, Power BI, and Python for Data Analytics**
 - 💼 Open to **Data Analyst Internships** and **Full-Time Opportunities**
-- 📫 Reach me at: rahulraiger13@example.com**
+- 📫 Reach me at: rahulraiger13@gmail.com
 - ⚡ Fun fact: I enjoy turning raw data into meaningful insights.
 
 ---
