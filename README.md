@@ -19,11 +19,11 @@
 <p align="center"><b>Data Visualization & Tools:</b> Power BI, Advanced Excel, MS Office</p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=radical&hide_border=true&include_all_commits=true" alt="RAHULRAIGAR's GitHub Stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </p>
 <!---
 RAHULRAIGAR/RAHULRAIGAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
