@@ -94,7 +94,20 @@ Turning raw data into meaningful insights through analytics and visualization.
 </p>
 
 ---
+## 📊 GitHub Stats
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight&hide_border=true" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=tokyonight&hide_border=true" height="180"/>
+</p>
+## 🔥 GitHub Streak
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com?user=RAHULRAIGAR&theme=tokyonight&hide_border=true" />
+</p>
+## 📈 Contribution Graph
+
+[![Rahul's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=RAHULRAIGAR&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 # 🚀 Featured Projects
 
 ## 📊 Sales Dashboard (Power BI)
