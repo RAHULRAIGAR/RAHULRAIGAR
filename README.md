@@ -181,16 +181,16 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&
 # 🌐 Connect with Me
 
 <p align="left">
-<a href="[https://www.linkedin.com/in/YOUR-LINKEDIN](https://www.linkedin.com/in/rahul-raigar-data3293/)/" target="_blank">
+<a href="(https://github.com/RAHULRAIGAR)" target="_blank">
+<img src="https://skillicons.dev/icons?i=github" height="40"/>
+</a>
+
+<a href="(https://www.linkedin.com/in/rahul-raigar-data3293/)/" target="_blank">
 <img src="https://skillicons.dev/icons?i=linkedin" height="40"/>
 </a>
 
-<a href="mailto:rahulraiger13L@gmail.com">
+<a href="mailto:rahulraiger13@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail" height="40"/>
-</a>
-
-<a href="[https://github.com/RAHULRAIGAR](https://github.com/RAHULRAIGAR)" target="_blank">
-<img src="https://skillicons.dev/icons?i=github" height="40"/>
 </a>
 </p>
 
