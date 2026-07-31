@@ -28,13 +28,17 @@
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  <a href="https://github.com/RAHULRAIGAR">
+    <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=radical&hide_border=true" alt="GitHub Stats" />
+  </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  <a href="https://github.com/RAHULRAIGAR">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
+  </a>
 </p>
 <!---
 RAHULRAIGAR/RAHULRAIGAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
