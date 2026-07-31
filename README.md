@@ -109,7 +109,7 @@ Turning raw data into meaningful insights through analytics and visualization.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULRAIGAR&theme=tokyo-night&hide_border=true" width="1200" height="450"/>
 </p>
-# 🚀 Featured Projects
+## 🚀 Featured Projects
 
 ## 📊 Sales Dashboard (Power BI)
 
