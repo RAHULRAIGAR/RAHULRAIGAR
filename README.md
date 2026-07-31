@@ -39,17 +39,14 @@ Turning raw data into meaningful insights through analytics and visualization.
 
 # 👨‍💻 About Me
 
-🎓 B.Tech Student
+## 👨‍💻 About Me
 
-📊 Aspiring Data Analyst
-
-📈 Passionate about Business Intelligence & Data Analytics
-
-🐍 Python | SQL | Power BI | Excel
-
-🌱 Currently Learning My SQL
-
-🎯 Looking for Data Analyst Internship & Full-Time Opportunities
+- 🎓 Final Year B.Tech Student in Computer Science & Engineering.
+- 📊 Aspiring Data Analyst passionate about solving real-world problems with data.
+- 🌱 Currently learning **Advanced SQL, Power BI, and Python for Data Analytics**
+- 💼 Open to **Data Analyst Internships** and **Full-Time Opportunities**
+- 📫 Reach me at: rahulraiger13@example.com**
+- ⚡ Fun fact: I enjoy turning raw data into meaningful insights.
 
 ---
 
