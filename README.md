@@ -176,23 +176,18 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&
 
 ---
 
-# 📫 Connect With Me
 
-💼 LinkedIn
 
-https://www.linkedin.com/in/rahul-raigar-data3293/
+# 🌐 Connect with Me
 
-💻 GitHub
-
-https://github.com/RAHULRAIGAR
-
-📧 Email
-
-rahulraiger13@gmail.com
-
----
-
-<p align="center">
+<p align="left">
+<a href="https://www.linkedin.com/in/YOUR-LINKEDIN/" target="_blank">
+<img src="https://skillicons.dev/icons?i=linkedin" height="45" />
+</a>
+<a href="mailto:YOUR_EMAIL@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail" height="45" />
+</a>
+</p>
 
 ### ⭐ Thanks for visiting my profile ⭐
 
