@@ -1,4 +1,5 @@
 <h2 align="center">Hi there 👋, I'm RAHUL RAIGAR</h2>
+<h3 align="center">Data Analyst</h3>
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
@@ -28,7 +29,6 @@
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
 </div>
- 
 <!---
 RAHULRAIGAR/RAHULRAIGAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
