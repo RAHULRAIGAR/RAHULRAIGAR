@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/RAHULRAIGAR/github-assets/main/Black%20and%20Blue%20Modern%20Data%20Analyst%20LinkedIn%20Banner.png" width="100%" alt="Rahul Raigar Banner">
+</p>
+
+
+
 <!-- Animated Header -->
 
 <p align="center">
