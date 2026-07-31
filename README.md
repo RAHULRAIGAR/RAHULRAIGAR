@@ -105,10 +105,8 @@ Turning raw data into meaningful insights through analytics and visualization.
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=RAHULRAIGAR&theme=tokyonight&hide_border=true" />
 </p>
-## 📈 Contribution Graph
-
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULRAIGAR&theme=tokyo-night" width="100%"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULRAIGAR&theme=tokyo-night&hide_border=true" width="1200" height="450"/>
 </p>
 # 🚀 Featured Projects
 
