@@ -37,9 +37,9 @@ Turning raw data into meaningful insights through analytics and visualization.
 
 ---
 
-# 👨‍💻 About Me
 
-## 👨‍💻 About Me
+
+# 👨‍💻 About Me
 
 - 🎓 Final Year B.Tech Student in Computer Science & Engineering.
 - 📊 Aspiring Data Analyst passionate about solving real-world problems with data.
