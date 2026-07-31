@@ -96,11 +96,12 @@ Turning raw data into meaningful insights through analytics and visualization.
 ---
 
 
+
+
 ## 📊 GitHub Statistics
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight" height="180"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&layout=compact&theme=tokyonight" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight" />
 </p>
 ## 🔥 GitHub Streak
 
@@ -190,7 +191,12 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&
 -->
 
 ---
+## 🏆 Certifications
 
+- 📜 Python Programming Certificate- [View Certificate](https://drive.google.com/file/d/17GDF3ILnnxpGMck3TSjZ6tVkzx5-dEyw/view?usp=drivesdk)
+- 📊 C language certificate - [View Certificate](https://drive.google.com/file/d/1kRDcX25oNDr8PVqq9KOPqI-1IKHuN1Y-/view?usp=drivesdk)
+- 🗄️C-DAC Cyber Security Certificate - [View Certificate](https://drive.google.com/file/d/1NmFFgra8fiXBJazbejcIvyZYM7klD7m2/view?usp=drivesdk)
+- 📈Data Analytics Essentials Certificate- [View Certificate](https://drive.google.com/file/d/1Bc0B91kdOr9C_d-q4Huc80fPWZebq0J0/view?usp=drivesdk)
 
 
 # 🌐 Connect with Me
