@@ -50,7 +50,7 @@ Turning raw data into meaningful insights through analytics and visualization.
 - 💼 Open to **Data Analyst Internships** and **Full-Time Opportunities**
 - 📫 Reach me at: rahulraiger13@gmail.com
 - ⚡ Fun fact: I enjoy turning raw data into meaningful insights.
-
+- 📍 Jaipur, Rajasthan
 ---
 
 
