@@ -115,54 +115,40 @@ Turning raw data into meaningful insights through analytics and visualization.
 <p align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULRAIGAR&theme=tokyo-night&hide_border=true" width="1200" height="450"/>
 </p>
-## 🚀 Featured Projects
+## 📂 Featured Projects
 
-## 📊 Sales Dashboard (Power BI)
-
-✔ KPI Dashboard
-
-✔ Revenue Analysis
-
-✔ Dynamic Filters
-
-✔ DAX Measures
+### 🚖 Uber Ride Analytics — Power BI
+Built a comprehensive Power BI dashboard to analyze ride patterns, fare distributions, peak hours, and user demand for Uber data.  
+**Tools:** Power BI | Data Analysis | Data Visualization  
+🔗 [View Project](https://github.com/RAHULRAIGAR/uber-ride-analytics-powerbi)
 
 ---
 
-## 👨‍💼 HR Analytics Dashboard
-
-✔ Attrition Analysis
-
-✔ Employee Insights
-
-✔ Department Performance
+### 📊 Sales Performance Dashboard
+Created an interactive sales performance dashboard to track revenue trends, regional performance, and product categories.  
+**Tools:** Power BI | Excel | SQL  
+🔗 [View Project](https://github.com/RAHULRAIGAR/sales-performance-powerbi-dashboard)
 
 ---
 
-## 🐍 Python Data Analysis
-
-✔ Data Cleaning
-
-✔ Exploratory Data Analysis
-
-✔ Data Visualization
-
-✔ Pandas & NumPy
+### 💰 Retail Sales Profitability Analysis
+Analyzed retail store data to uncover profit margins, customer purchase behaviors, and top-performing product segments.  
+**Tools:** Python | SQL | Data Analytics  
+🔗 [View Project](https://github.com/RAHULRAIGAR/Retail-Sales-Profitability-Analysis)
 
 ---
 
-## 🗄 SQL Projects
+### 🐍 Python Data Analysis
+Performed data cleaning, exploratory data analysis (EDA), and insightful visual plots using core Python libraries.  
+**Tools:** Python | Pandas | NumPy | Matplotlib  
+🔗 [View Project](https://github.com/RAHULRAIGAR/python-data-analysis)
 
-✔ Joins
+---
 
-✔ Window Functions
-
-✔ CTE
-
-✔ Aggregate Functions
-
-✔ Stored Procedures
-
+### 🌐 Personal Portfolio Website
+Designed and deployed a responsive personal portfolio website showcasing my data analyst projects, skills, and resume.  
+**Tools:** HTML | CSS | JavaScript | GitHub Pages  
+🔗 [View Project](https://github.com/RAHULRAIGAR/rahulraigar.github.io)
 ---
 
 # 📜 Certifications
