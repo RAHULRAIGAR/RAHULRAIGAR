@@ -150,17 +150,6 @@ Designed and deployed a responsive personal portfolio website showcasing my data
 **Tools:** HTML | CSS | JavaScript | GitHub Pages  
 🔗 [View Project](https://github.com/RAHULRAIGAR/rahulraigar.github.io)
 
-# 📜 Certifications
-
-🏆 SQL
-
-🏆 Python
-
-🏆 Power BI
-
-🏆 Data Analytics
-
----
 
 
 
