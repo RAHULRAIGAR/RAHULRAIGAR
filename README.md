@@ -32,6 +32,9 @@ Turning raw data into meaningful insights through analytics and visualization.
 <a href="mailto:rahulraiger13@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
 </a>
+<a href="https://rahulraigar.github.io/">
+<img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=todoist&logoColor=white"/>
+</a>
 
 </p>
 
