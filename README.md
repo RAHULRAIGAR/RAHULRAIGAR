@@ -149,7 +149,6 @@ Performed data cleaning, exploratory data analysis (EDA), and insightful visual 
 Designed and deployed a responsive personal portfolio website showcasing my data analyst projects, skills, and resume.  
 **Tools:** HTML | CSS | JavaScript | GitHub Pages  
 🔗 [View Project](https://github.com/RAHULRAIGAR/rahulraigar.github.io)
----
 
 # 📜 Certifications
 
