@@ -10,10 +10,10 @@
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&duration=3500&pause=1000&color=00C2FF&center=true&vCenter=true&width=700&lines=Hi+%F0%9F%91%8B+I'm+Rahul+Raigar;Aspiring+Data+Analyst;SQL+%7C+Python+%7C+Power+BI+%7C+Excel;Turning+Data+Into+Insights" />
 </p>
 
-<h3 align="center">📊 Aspiring Data Analyst</h3>
+<h3 align="center">📊 Aspiring Data Analyst | Business Intelligence Enthusiast</h3>
 
 <p align="center">
-Turning raw data into meaningful insights through analytics and visualization.
+I transform raw data into actionable insights using SQL, Power BI, Excel, and Python.
 </p>
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=RAHULRAIGAR&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views" />
@@ -44,16 +44,15 @@ Turning raw data into meaningful insights through analytics and visualization.
 
 # 👨‍💻 About Me
 
-- 🎓 Final Year B.Tech Student in Computer Science & Engineering.
-- 📊 Aspiring Data Analyst passionate about solving real-world problems with data.
-- 🌱 Currently learning **Advanced SQL, Power BI, and Python for Data Analytics**
-- 💼 Open to **Data Analyst Internships** and **Full-Time Opportunities**
-- 📫 Reach me at: rahulraiger13@gmail.com
-- ⚡ Fun fact: I enjoy turning raw data into meaningful insights.
-- 📍 Jaipur, Rajasthan
+- 🎓 Final Year B.Tech student in Computer Science & Engineering.
+- 📊 Aspiring Data Analyst passionate about turning raw data into actionable insights.
+- 🛠️ Working with **SQL, Power BI, Excel, and Python** for data analysis and visualization.
+- 📈 Building real-world projects focused on dashboards, business insights, and data-driven decision making.
+- 🌱 Currently strengthening my skills in **Advanced SQL, Power BI, and Python for Data Analytics**.
+- 💼 Open to **Data Analyst Internships and Entry-Level Opportunities**.
+- 📍 Jaipur, Rajasthan, India.
+
 ---
-
-
 
 
 ## 🛠️ Technical Skills
@@ -96,7 +95,7 @@ Turning raw data into meaningful insights through analytics and visualization.
 ## 📊 GitHub Activity
 
 <p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight&hide_border=true" />
+
   <img height="170" src="https://streak-stats.demolab.com?user=RAHULRAIGAR&theme=tokyonight&hide_border=true" />
 </p>
 
