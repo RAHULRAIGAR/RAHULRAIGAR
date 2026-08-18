@@ -56,99 +56,100 @@ Turning raw data into meaningful insights through analytics and visualization.
 
 
 
+## 🛠️ Technical Skills
 
-## 🛠️ Tech Stack
+### 📊 Data Analytics & BI
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=python,mysql,c,cpp,git,github,vscode" />
+<p>
+  <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+</p>
+
+### 🐍 Programming & Libraries
+
+<p>
+  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
 </p>
 
 <p>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-  <img src="https://img.shields.io/badge/MS%20Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
+  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge"/>
 </p>
 
-### Libraries
+### 🔧 Tools & Technologies
 
 <p>
-
-<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas"/>
-
-<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy"/>
-
-<img src="https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge"/>
-
-<img src="https://img.shields.io/badge/Seaborn-4C72B0?style=for-the-badge"/>
-
+  <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
 
-### Tools
 
-<p>
 
-<img src="https://skillicons.dev/icons?i=git"/>
-
-<img src="https://skillicons.dev/icons?i=github"/>
-
-<img src="https://img.shields.io/badge/PowerBI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-
-<img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel"/>
-
-</p>
 
 ---
 
 
 
 
-## 📊 GitHub Statistics
+## 📊 GitHub Activity
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=RAHULRAIGAR&show_icons=true&theme=tokyonight&hide_border=true" />
+  <img height="170" src="https://streak-stats.demolab.com?user=RAHULRAIGAR&theme=tokyonight&hide_border=true" />
 </p>
-## 🔥 GitHub Streak
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com?user=RAHULRAIGAR&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULRAIGAR&theme=tokyo-night&hide_border=true" width="95%"/>
 </p>
-## 📈 GitHub Contribution Graph
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=RAHULRAIGAR&theme=tokyo-night&hide_border=true" width="1200" height="450"/>
-</p>
+
+---
 ## 📂 Featured Projects
 
-### 🚖 Uber Ride Analytics — Power BI
-Built a comprehensive Power BI dashboard to analyze ride patterns, fare distributions, peak hours, and user demand for Uber data.  
-**Tools:** Power BI | Data Analysis | Data Visualization  
+### 🚖 Uber Ride Analytics Dashboard
+An interactive Power BI dashboard designed to analyze ride performance, revenue, trip trends, vehicle types, cancellations, and peak-hour demand.
+
+**Tools:** Power BI | Data Analysis | Data Visualization
+
 🔗 [View Project](https://github.com/RAHULRAIGAR/uber-ride-analytics-powerbi)
 
 ---
 
 ### 📊 Sales Performance Dashboard
-Created an interactive sales performance dashboard to track revenue trends, regional performance, and product categories.  
-**Tools:** Power BI | Excel | SQL  
+An interactive dashboard focused on monitoring sales performance, revenue trends, regional performance, and product-level insights to support data-driven decisions.
+
+**Tools:** Power BI | Excel | SQL
+
 🔗 [View Project](https://github.com/RAHULRAIGAR/sales-performance-powerbi-dashboard)
 
 ---
 
 ### 💰 Retail Sales Profitability Analysis
-Analyzed retail store data to uncover profit margins, customer purchase behaviors, and top-performing product segments.  
-**Tools:** Python | SQL | Data Analytics  
+Analyzed retail sales data to identify profitability trends, customer purchasing patterns, and high-performing product segments using data analysis techniques.
+
+**Tools:** Python | SQL | Data Analytics
+
 🔗 [View Project](https://github.com/RAHULRAIGAR/Retail-Sales-Profitability-Analysis)
 
 ---
 
 ### 🐍 Python Data Analysis
-Performed data cleaning, exploratory data analysis (EDA), and insightful visual plots using core Python libraries.  
-**Tools:** Python | Pandas | NumPy | Matplotlib  
+Performed data cleaning, exploratory data analysis, and data visualization using Python's core data-analysis libraries.
+
+**Tools:** Python | Pandas | NumPy | Matplotlib
+
 🔗 [View Project](https://github.com/RAHULRAIGAR/python-data-analysis)
 
 ---
 
 ### 🌐 Personal Portfolio Website
-Designed and deployed a responsive personal portfolio website showcasing my data analyst projects, skills, and resume.  
-**Tools:** HTML | CSS | JavaScript | GitHub Pages  
+A responsive portfolio website showcasing my data analytics projects, technical skills, and professional profile.
+
+**Tools:** HTML | CSS | JavaScript | GitHub Pages
+
 🔗 [View Project](https://github.com/RAHULRAIGAR/rahulraigar.github.io)
+
 
 
 
@@ -170,38 +171,54 @@ src="https://github-readme-stats.vercel.app/api/top-langs/?username=RAHULRAIGAR&
 ---
 ## 🏆 Certifications
 
-- 📜 Python Programming Certificate- [View Certificate](https://drive.google.com/file/d/17GDF3ILnnxpGMck3TSjZ6tVkzx5-dEyw/view?usp=drivesdk)
-- 📊 C language certificate - [View Certificate](https://drive.google.com/file/d/1kRDcX25oNDr8PVqq9KOPqI-1IKHuN1Y-/view?usp=drivesdk)
-- 🗄️C-DAC Cyber Security Certificate - [View Certificate](https://drive.google.com/file/d/1NmFFgra8fiXBJazbejcIvyZYM7klD7m2/view?usp=drivesdk)
-- 📈Data Analytics Essentials Certificate- [View Certificate](https://drive.google.com/file/d/1Bc0B91kdOr9C_d-q4Huc80fPWZebq0J0/view?usp=drivesdk)
+| Certification | Issuer / Area | Certificate |
+|---|---|---|
+| 🐍 Python Programming | Python Programming | [View Certificate](https://drive.google.com/file/d/17GDF3ILnnxpGMck3TSjZ6tVkzx5-dEyw/view?usp=drivesdk) |
+| 💻 C Programming | C Programming | [View Certificate](https://drive.google.com/file/d/1kRDcX25oNDr8PVqq9KOPqI-1IKHuN1Y-/view?usp=drivesdk) |
+| 🔐 C-DAC Cyber Security | Cyber Security | [View Certificate](https://drive.google.com/file/d/1NmFFgra8fiXBJazbejcIvyZYM7klD7m2/view?usp=drivesdk) |
+| 📊 Data Analytics Essentials | Data Analytics | [View Certificate](https://drive.google.com/file/d/1Bc0B91kdOr9C_d-q4Huc80fPWZebq0J0/view?usp=drivesdk) |
+
+---
 
 
-## 📩 Open To Opportunities
+## 🚀 Open To Opportunities
 
-I am looking for entry-level opportunities where I can apply my technical skills, learn from experienced professionals, and contribute to data-driven projects.
+I am actively looking for opportunities where I can apply my data analytics skills, work on real-world business problems, and continue learning from experienced professionals.
 
-- Data Analyst Internships
-- Junior Data Analyst Roles
-- Business Intelligence Internships
-- Python / SQL Developer Opportunities
+**Interested in:**
+
+- 📊 Data Analyst Internships
+- 📈 Junior / Entry-Level Data Analyst Roles
+- 💼 Business Intelligence Internships
+- 🗄️ SQL / Data Analytics Roles
+
+I am especially interested in opportunities involving **SQL, Power BI, Excel, Python, data visualization, and business analytics.**
+
+---
   
 
 
 
-# 🌐 Connect with Me
-[![GitHub](https://skillicons.dev/icons?i=github)](https://github.com/RAHULRAIGAR)
-[![LinkedIn](https://skillicons.dev/icons?i=linkedin)](https://www.linkedin.com/in/rahul-raigar-data3293/)
-[![Gmail](https://skillicons.dev/icons?i=gmail)](mailto:rahulraiger13@gmail.com)
+## 🌐 Let's Connect
 
-### ⭐ Thanks for visiting my profile ⭐
-
-If you like my work, consider giving a ⭐ to my repositories!
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/rahul-raigar-data3293/">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect%20with%20me-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://github.com/RAHULRAIGAR">
+    <img src="https://img.shields.io/badge/GitHub-Explore%20my%20projects-181717?style=for-the-badge&logo=github&logoColor=white"/>
+  </a>
+  <a href="mailto:rahulraiger13@gmail.com">
+    <img src="https://img.shields.io/badge/Email-Contact%20me-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  <a href="https://rahulraigar.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-Visit%20my%20website-FF5722?style=for-the-badge&logo=googlechrome&logoColor=white"/>
+  </a>
 </p>
-<!---
-RAHULRAIGAR/RAHULRAIGAR is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+<p align="center">
+  ⭐ Thanks for visiting my profile! ⭐
+</p>
 
 
 
