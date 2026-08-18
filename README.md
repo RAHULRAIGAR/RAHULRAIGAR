@@ -57,32 +57,30 @@ I transform raw data into actionable insights using SQL, Power BI, Excel, and Py
 
 ## 🛠️ Technical Skills
 
-### 📊 Data Analytics & BI
+### 📊 Data Analytics & Business Intelligence
 
 <p>
   <img src="https://img.shields.io/badge/SQL-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-Data%20Visualization-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-  <img src="https://img.shields.io/badge/Excel-Data%20Analysis-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white"/>
 </p>
 
-### 🐍 Programming & Libraries
+### 🐍 Python & Data Libraries
 
 <p>
-  <img src="https://skillicons.dev/icons?i=python,c,cpp" />
-</p>
-
-<p>
-  <img src="https://img.shields.io/badge/Pandas-Data%20Analysis-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-Numerical%20Computing-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Data%20Analysis-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+  <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
   <img src="https://img.shields.io/badge/Matplotlib-Visualization-11557C?style=for-the-badge"/>
   <img src="https://img.shields.io/badge/Seaborn-Visualization-4C72B0?style=for-the-badge"/>
 </p>
 
-### 🔧 Tools & Technologies
+### 🔧 Development Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode" />
 </p>
+
 
 
 
